@@ -1,0 +1,34 @@
+<h1 style="color: red; background-color:green; text-align:center" >HI DEV101</h1>
+
+html + css same page ?
+
+
+CSS:
+
+selecteur {
+    pro : valeur;
+    pro : valeur;
+    pro : valeur;
+    pro : valeur;
+}
+
+selecteurs simples :
+
+h1 p ul : nom ? 
+
+id : identifiant #id
+
+class : .class
+
+complexes ?
+
+
+les couleurs :
+
+names : red green blue, ...
+
+code hex : #e48c26
+
+RGB(,,)
+
+rgba(red,green,blue,alpha:0->1)

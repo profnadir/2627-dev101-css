@@ -1,0 +1,58 @@
+#dev101{
+    color: rgb(0,0,0);
+    background-color: green;
+    text-align: center;
+    font-size: 50px;
+}
+
+p{
+    text-align: justify;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#dev102{
+    color: green;
+    background-color: red;
+    text-align: center;
+}
+
+.monstyle{
+    color: red;
+    background-color: green;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.demo1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgba(0,0,0,1);
+}
+
+.demo2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgba(0,0,0,0.1);
+}
+
+.demo3{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgba(0,0,0,0.2);
+}
+
+.demo4{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgba(0,0,0,0.1);
+}
+
+img{
+    width: 100vw;
+    height: 100vh;
+}
