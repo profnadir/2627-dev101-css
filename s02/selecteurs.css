@@ -1,0 +1,53 @@
+/* p, h1{
+    background-color: yellow;
+} */
+
+div ~ p{
+    background-color: yellow;
+}
+
+.center{
+    text-align: center;
+    color: red;
+}
+
+p.center{
+
+}
+
+h1.center{
+
+}
+
+*{
+
+}
+
+/* les selecteurs d'attributs */
+
+a[title]{
+    background-color: yellow;
+}
+
+a[title=ofppt3]{
+    background-color: green;
+}
+
+a[href^="https"]{
+    background-color: red;
+}
+
+a[href$=".com"]{
+    font-size: 50px;
+}
+
+input{
+
+}
+
+input[type=email]{
+    
+}
+
+
+

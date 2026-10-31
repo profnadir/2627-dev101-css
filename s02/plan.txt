@@ -1,0 +1,81 @@
+Rappel : 
+
+CSS : mise en forme d'une page web
+
+3 méthodes : 
+
+<h1 style
+<head>
+    <style>
+</head>
+
+fichier .css séparé !!!!
+
+selecteur (1) {
+    propriéte : valeur; (2)
+    propriéte : valeur;
+    propriéte : valeur;
+    propriéte : valeur;
+}
+
+h1{
+    color : red;
+}
+
+(1) selecteurs :
+
+simple:
+
+nom h1{} p{}
+identifianr #id{}
+classe .class{}
+
+*
+
+complexes : 
+
+h1, p{
+
+}
+
+div p{
+
+}
+
+div > p{
+
+}
+
+div + p{
+
+}
+
+a[title] {
+
+}
+
+div h1 > i{
+
+}
+
+(2) 
+
+propriétes texte : typographie
+
+text-align:
+font-family:
+font-size:
+
+
+les bordures + les ombres 
+padding margin les images les animations ....
+
+les selecteurs:
+
+pseudo-class
+pseudo-element
+
+?
+
+:hover
+::first 
